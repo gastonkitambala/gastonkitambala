@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gasston I. Kitambala
+- 👋 Hi, I’m Gaston I. Kitambala
 - 👀 I’m interested in Embedded Systems and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning, Embedded C
 - 💞️ I’m looking to collaborate on interesting projects
